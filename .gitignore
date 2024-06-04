@@ -41,6 +41,8 @@
 *.VC.db
 *.VC.opendb
 
+*.zip
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
@@ -68,7 +70,40 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+Plugins/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+Content/100+crosshairspack
+Content/AnimStarterPack
+Content/Asian_Village
+Content/BallisticsVFX
+Content/Collections
+Content/Developers
+Content/FireImpactSmokePack
+Content/GunsPack
+Content/MarketplaceBlockout
+Content/Medieval_Village
+Content/MinimalistUIPack
+Content/ModularTrenchKit
+Content/NewFolder
+Content/ProSoundCollection_v1_3
+Content/ResearchMegaPack
+Content/sA_Megapack_v1
+Content/StarterContent
+Content/StorageHouse
+Content/Stylized_Egypt
+Content/UWC_Bullet_Holes
+Content/Venice_fast_building
+Content/Weapons
+Content/Genderfield/Hoshi
+Content/Genderfield/Destruction
+Content/Genderfield/Sounds
+Content/Genderfield/Cassandra
+Content/Genderfield/Particles
+Content/Genderfield/Materials
+Content/Genderfield/Textures
+Content/Genderfield/Assets
